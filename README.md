@@ -1,8 +1,8 @@
-# DL_P4_Deep-Neural-Network-for-Image-Classification-Application
+# Deep-Neural-Network-for-Image-Classification-Application
 
 Build and apply a deep neural network to supervised learning.
 
-I used the functions I'd implemented in the previous project to build a deep network, and apply it to `cat vs non-cat classification`.  I  improve in accuracy relative to my previous logistic regression implementation.
+I used the functions I'd implemented in the previous project to build a deep network, and apply it to `cat vs non-cat classification`. I improve in accuracy relative to my previous logistic regression implementation.
 
 ## Files:
 
