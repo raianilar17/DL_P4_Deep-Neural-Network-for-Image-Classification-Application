@@ -8,7 +8,7 @@ I used the functions I'd implemented in the previous project to build a deep net
 
 1. [Datasets](datasets) : training/testing datasets
 2. [images](images) : Unseen images
-3. [Deep_Neural_Network_Application .ipynb](Deep_Neural_Network_Application .ipynb) : Complete Project description
+3. [Deep_Neural_Network_Application .ipynb](Deep_Neural_Network_Application.ipynb) : Complete Project description
 4. [dnn_app_utils_v3.py](dnn_app_utils_v3.py) :  provides some the functions 
 
 ## Command to Run code
@@ -18,7 +18,7 @@ allows you to create and share documents that contain live code, equations, visu
 Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, 
 machine learning, and much more.)
 
-Detail explanation is given in notebook. [Please refer](Deep_Neural_Network_Application .ipynb)
+Detail explanation is given in notebook. [Please refer](Deep_Neural_Network_Application.ipynb)
 
 The notebook written in deep explanation with mathematical function.
 
